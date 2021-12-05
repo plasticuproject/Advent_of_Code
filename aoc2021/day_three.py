@@ -8,7 +8,6 @@ from typing import List
 # Vim search and replace to transform data
 # :%s/\n/, "/g
 
-# pylint: disable=too-many-lines
 REPORT: List[str] = [
     "001111011011", "000110001010", "011010111111", "010011001110",
     "011001101000", "010100000011", "100001000011", "100100001101",
